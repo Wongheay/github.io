@@ -106,6 +106,7 @@ button {
     border: #fff;
     padding: 7px;
     margin-left: 500px;
+    box-shadow: #fff 20px 3px white;
 }
 
 #bt-btn {
