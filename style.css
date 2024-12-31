@@ -9,7 +9,7 @@
 }
 
 header {
-   
+
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -91,6 +91,24 @@ header {
     font-size: 20px;
     cursor: pointer;
 }
-form{
+
+form {
     margin-left: 40px;
+}
+
+button {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: #0d6efd;
+    margin: 50px;
+    font-size: 15px;
+    width: 90px;
+    border-radius: 5px;
+    border: #fff;
+    padding: 7px;
+    margin-left: 500px;
+}
+
+#bt-btn {
+    color: white;
+    text-decoration: none;
 }
