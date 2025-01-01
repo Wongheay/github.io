@@ -102,6 +102,7 @@ header {
     border: none;
     padding: 7px;
     margin-left: 600px;
+    box-shadow: wheat 2px gainsboro 5px;
 }
 a{
     color: white;
