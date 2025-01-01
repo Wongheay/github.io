@@ -108,3 +108,12 @@ a{
     color: white;
     text-decoration: none;
 }
+
+.button a:hover{
+    background-color: #555;
+    border: none;
+    transition: 5Sms;
+}
+a:hover{
+  color: white;  
+}
