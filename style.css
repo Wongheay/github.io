@@ -14,7 +14,8 @@ button.min {
   background-color: #12bece;
   font-size: 15px;
   width: 115px;
-  margin: 50px;
+  margin-left: 600px;
+  margin-top: 40px;
   border-radius: 7px;
   border: none;
   padding: 8px;
@@ -26,8 +27,8 @@ a {
   text-decoration: none;
 }
 
-.button a:hover {
-  background-color: #555;
+button.min:hover {
+  background-color: #7c7e86;
   border: none;
   transition: 5Sms;
 }
